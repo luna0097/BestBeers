@@ -1,4 +1,4 @@
-package com.example.bestbeers.ui.home
+package com.example.bestbeers.ui.home.viewModel
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
